@@ -4,10 +4,11 @@ const { readdirSync } = require("fs");
 const { REST, Routes, Message } = require("discord.js");
 const { DateTime } = require("luxon");
 const timeFormat = "yyyy/LL/dd-h:mm:ss.SSS-a";
-const lang = require(`../../../data/lang/${process.env.BOTLANG}/${process.env.BOTLANG}.json`);
-const langDev = lang.cmd.dev;
 const { Utils, LanguageConvert } = require("../../tools/utils.js");
 require("dotenv").config();
+
+const lang = require(`../../../data/lang/${process.env.BOTLANG}/${process.env.BOTLANG}.json`);
+const langDev = lang.cmd.dev;
 
 class RegisterCommands {
 	/**
