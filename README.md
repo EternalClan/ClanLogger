@@ -5,7 +5,7 @@
 ![Version (main)](https://img.shields.io/github/package-json/v/EternalClan/ClanLogger/main?style=flat-square)<!-- 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/EternalClan/ClanLogger/nodejs.yml?branch=main&style=flat-square&link=https%3A%2F%2Fgithub.com%EternalClan%2FClanLogger%2Factions)
 -->
-[![Maintenance](https://img.shields.io/maintenance/yes/2024?style=flat-square)](https://github.com/EternalClan/ClanLogger/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/maintenance/yes/2025?style=flat-square)](https://github.com/EternalClan/ClanLogger/graphs/commit-activity)
 
 
 ## Installation and setup
