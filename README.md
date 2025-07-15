@@ -1,12 +1,11 @@
-# ClanLoggerJS
-![Discord](https://img.shields.io/discord/602434888880095242?style=flat-square&logo=discord&logoColor=%23ffffff&logoSize=auto&label=Pony%20Events&color=%237289da&link=https%3A%2F%2Fdiscord.gg%2FQXnbmW6dr3)
+# ClanLogger
 ![Discord](https://img.shields.io/discord/720746186788831323?style=flat-square&logo=discord&logoColor=%23ffffff&logoSize=auto&label=Eternal%20Clan&color=%237289da&link=https%3A%2F%2Fdiscord.gg%2FQXnbmW6dr3)
 ![ESLint](https://img.shields.io/badge/custom-%234B32C3?style=flat-square&logo=eslint&logoColor=%23ffffff&logoSize=auto&label=ESLint)
-[![LICENSE](https://img.shields.io/github/license/TamaniWolf/ClanLoggerJS?style=flat-square)](LICENSE)
-![Version (main)](https://img.shields.io/github/package-json/v/TamaniWolf/ClanLoggerJS/main?style=flat-square)<!-- 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/TamaniWolf/ClanLoggerJS/nodejs.yml?branch=main&style=flat-square&link=https%3A%2F%2Fgithub.com%2FTamaniWolf%2FClanLoggerJS%2Factions)
+[![LICENSE](https://img.shields.io/github/license/EternalClan/ClanLogger?style=flat-square)](LICENSE)
+![Version (main)](https://img.shields.io/github/package-json/v/EternalClan/ClanLogger/main?style=flat-square)<!-- 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/EternalClan/ClanLogger/nodejs.yml?branch=main&style=flat-square&link=https%3A%2F%2Fgithub.com%EternalClan%2FClanLogger%2Factions)
 -->
-[![Maintenance](https://img.shields.io/maintenance/yes/2024?style=flat-square)](https://github.com/TamaniWolf/ClanLoggerJS/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/maintenance/yes/2024?style=flat-square)](https://github.com/EternalClan/ClanLogger/graphs/commit-activity)
 
 
 ## Installation and setup
